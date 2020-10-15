@@ -19,9 +19,8 @@ Python is an open source programming language available for Windows, Mac, and *n
   + [SciPy ecosystem](https://www.scipy.org/) 
 * Machine Learning
   + [scikit-learn](https://scikit-learn.org/stable/)
-  + [tensorflow](https://pypi.org/project/tensorflow/)
-  + [pytorch](https://pytorch.org/)
-  + [kersa](https://keras.io/)
+  + [tensorflow](https://pypi.org/project/tensorflow/) & [kersa](https://keras.io/)
+  + [PyTorch](https://pytorch.org/)
 
 # Getting Started
 
