@@ -21,6 +21,9 @@ Python is an open source programming language available for Windows, Mac, and *n
   + [scikit-learn](https://scikit-learn.org/stable/)
   + [tensorflow](https://pypi.org/project/tensorflow/) & [kersa](https://keras.io/)
   + [PyTorch](https://pytorch.org/)
+* Plotting
+  + [matplotlib](https://matplotlib.org/stable/tutorials/index) is one of the standard plotting packages, and [here](https://pbpython.com/effective-matplotlib.html) is an excellent resource 
+  + [seaborn](https://seaborn.pydata.org/examples/index.html) is also excellent for plotting.
 
 # Getting Started
 
